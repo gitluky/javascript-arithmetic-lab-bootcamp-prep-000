@@ -22,8 +22,8 @@ function inc(n){
   return n++
 }
 
-makeInt(n, 10){
-  return parseInt(n)
+makeInt(n){
+  return parseInt(n,10)
 }
 
 preserveDecimal(n){
