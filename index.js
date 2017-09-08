@@ -29,5 +29,3 @@ makeInt(n, 10){
 preserveDecimal(n){
   parseFloat(n)
 }
-
-
