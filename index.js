@@ -22,10 +22,10 @@ function inc(n){
   return n++
 }
 
-makeInt(n){
+function makeInt(n){
   return parseInt(n,10)
 }
 
-preserveDecimal(n){
+function preserveDecimal(n){
   return parseFloat(n)
 }
